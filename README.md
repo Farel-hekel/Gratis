@@ -1,8 +1,29 @@
-# Warning 
-•Jika Pakai WiFi harap Slalu mainkan mode pesawat
+# Install
 
-•Wifi gampang kena spam ip
+$ pkg update && upgrade
 
-•Hasil Crack Tidak Ada/Tidak Banyak
+$ pkg install python
 
-•Di sarankan memakai Data Seluler
+$ pkg install git
+
+$ pip install requests
+
+$ pip install stdiomask
+
+$ pip install bs4
+
+$ pip install simplejson
+
+$ pip install requests
+
+$ pip install futures
+
+$ pip install rich
+
+$ git clone https://github.com/Farel-Hekel/Gratis
+
+$ cd Gratis
+
+$ git pull
+
+$ python Gratis.py
